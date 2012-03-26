@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email         = ["lanvige@gmail.com"]
   s.description   = %q{Generate the Lunar date}
   s.summary       = %q{Generate the Lunar date}
-  s.homepage      = ""
+  s.homepage      = "https://github.com/lanvige/chinese_lunar"
 
   s.files        = `git ls-files`.split("\n")
   s.test_files    = s.files.grep(%r{^(test|spec|features)/})
